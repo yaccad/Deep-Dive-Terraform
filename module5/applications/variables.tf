@@ -12,7 +12,7 @@ variable "aws_secret_key" {}
 
 #Web front end variables
 variable "key_name" {
-  default = "PluralsightKeys"
+  default = "aws-yves"
 }
 
 variable "ip_range" {
